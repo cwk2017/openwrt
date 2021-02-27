@@ -2,12 +2,12 @@
     <img src="https://img.vim-cn.com/db/018fac69e39167b5a6f692dfe5b715eccf2960.jpg" alt="图裂了😂" title="OpenWrt-DIY" align="right" height="180" />
 </a>
 
-OpenWrt DIY — 多设备固件云编译
-[这个是转载这位大佬](https://github.com/cwk2017/openwrt)
-https://github.com/cwk2017/openwrt
+OpenWrt DIY — 多设备固件云编译 <br/>
+[这个是转载这位大佬](https://github.com/cwk2017/openwrt) <br/>
+https://github.com/cwk2017/openwrt <br/>
 ======================
 
-[![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-固件下载-FFFFFF.svg)](#固件下载-) [![](https://img.shields.io/badge/-基本介绍-FFFFFF.svg)](#基本介绍-) [![](https://img.shields.io/badge/-近期更新-FFFFFF.svg)](#近期更新-) [![](https://img.shields.io/badge/-注意事项-FFFFFF.svg)](#注意事项-) [![](https://img.shields.io/badge/-小贴士-FFFFFF.svg)](#小贴士-)  [![](https://img.shields.io/badge/-鸣谢-FFFFFF.svg)](#鸣谢-)
+[![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-固件下载-FFFFFF.svg)](#固件下载-) [![](https://img.shields.io/badge/-基本介绍-FFFFFF.svg)](#基本介绍-) [![](https://img.shields.io/badge/-近期更新-FFFFFF.svg)](#近期更新-) [![](https://img.shields.io/badge/-注意事项-FFFFFF.svg)](#注意事项-)  [![](https://img.shields.io/badge/-鸣谢-FFFFFF.svg)](#鸣谢-)
 
 请 `认真阅读完毕` 本页面，本页面包含如何提升固件下载及使用体验的内容。
 
@@ -153,68 +153,6 @@ https://github.com/cwk2017/openwrt
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-FFFFFF.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
-
-## 小贴士 [![](https://img.shields.io/badge/-日常使用技巧及教程-FFFFFF.svg)](#小贴士-)
-
-**本栏目包含了很多 OpenWrt 日常使用问题解决方案、“不可描述”的教程、广告屏蔽教程，NAS（或路由器共享盘）的多媒体文件整理播放教程、OpenWrt 本地自编译教程。**
-
-<details>
- <summary><b>&nbsp;&nbsp;&nbsp; 基础常用</b></summary>
-
-<br/>
-
-[OpenWrt 基础配置](https://github.com/cwk2017/openwrt/wiki/OpenWrt-%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE)
-
-[OpenWrt 软路由 IPv6 上网设置](https://github.com/cwk2017/openwrt/wiki/OpenWrt-%E8%BD%AF%E8%B7%AF%E7%94%B1-IPv6-%E4%B8%8A%E7%BD%91%E8%AE%BE%E7%BD%AE)
-
-[OpenWrt 网络共享文件和 Transmission 使用技巧，再也没有恼人的权限问题](https://youtu.be/wmR7o9p9vSY)
-
-[SD 卡设备固件刷写程序 BalenaEtcher](https://www.balena.io/etcher/)
-
-</details>
-
-<details>
- <summary><b>&nbsp;&nbsp;&nbsp; USB 网卡</b></summary>
-
-<br/>
-
-**USB 有线网卡**
-
-推荐使用基于 AX88179（[绿联20256](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQETA10cXSVGTV8LRGtMR1dGFxBFC1pXUwkEAEAdQFkJBVsWAxYPUh1ETEdOWmVdIHFbakcpHD4LGBJsV3suc1ducxNNVxkyEzdWGlsVBhcEVRNYJTISAGVNNRUDEwZUGlgTAhQ3VCtbEgIRAVATUxYCEQdUK1wVCyJcAHVfRVBCUAEYXBQFQQICK2slASI3ZRtrFjJQaVRIWRIEEAZRGQsRUhdVABkLEVIQV1xIDhYDFQdQElkTMhAGVB9S)）或 RTL8153（[山泽UW013](https://union-click.jd.com/jdc?e=&p=AyIGZRtYFAUWA1MdXBYyFQVTH14UByJDCkMFSjJLQhBaGR4cDF8QTwcKWUcYB0UHCwUQAVEeWhAdS0IJRmt9dE9wLGwwV2JUUyliWBxEDEdQGilTDh43VCtYFAISA1AYWx0BIjdVHGtXbFBXCVACQVlKTwErWiUCFQdWHV4dChYBUhtZJQUSDmVADnsGQlUFTA8WBRMABh4MJTIiBGUraxUyETcXdVkcBhIHUxxSFAcXB1AeCBALGwJdEgxHCxpQVhpTRQERN1caWhEL)） 芯片的 USB 有线网卡设备。
-
-**USB 无线网卡**
-
-推荐使用基于雷凌 RT3070(150Mbps)/RT5370(150Mbps)/RT5572(300Mbps+600Mbps) 芯片;  
-
-或 MT7612U(300Mbps+867Mbps) 芯片的 USB 无线网卡设备 (例如华硕 AC55、网件 A6210 等)。
-
-**备注**：个人不建议在软路由设备上用 USB 外接无线网卡，信号强度、稳定性都比较弱。
-
-</details>
-
-<details>
- <summary><b>&nbsp;&nbsp;&nbsp; 不可描述</b></summary>
-
-<br/>
-
-[最好的 OpenWrt 路由器 shadowsocks 自动翻墙、科学上网教程](https://github.com/softwaredownload/openwrt-fanqiang)
-
-[自由上网方法大全](https://github.com/Alvin9999/new-pac/wiki)
-
-[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
-
-[WinXray](https://github.com/TheMRLL/winxray)
-
-[翻墙软件 VPN 推荐指南（含 2020 优惠）](https://github.com/vpncn/vpncn.github.io)
-
-[免费机场节点获取 1](https://github.com/hugetiny/awesome-vpn/blob/master/READMECN.md)
-
-[免费机场节点获取 2](https://bu.link2.workers.dev/https/github.com/freefq/free)
-
-</details>
-
-<details>
- <summary><b>&nbsp;&nbsp;&nbsp; 广告屏蔽</b></summary>
 
 <br/>
 
