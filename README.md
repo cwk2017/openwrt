@@ -7,7 +7,7 @@ OpenWrt DIY — 多设备固件云编译 <br/>
 https://github.com/cwk2017/openwrt <br/>
 ======================
 
-[![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-固件下载-FFFFFF.svg)](#固件下载-) [![](https://img.shields.io/badge/-基本介绍-FFFFFF.svg)](#基本介绍-) [![](https://img.shields.io/badge/-近期更新-FFFFFF.svg)](#近期更新-) [![](https://img.shields.io/badge/-注意事项-FFFFFF.svg)](#注意事项-)  [![](https://img.shields.io/badge/-鸣谢-FFFFFF.svg)](#鸣谢-)
+[![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-固件下载-FFFFFF.svg)](#固件下载-) [![](https://img.shields.io/badge/-基本介绍-FFFFFF.svg)](#基本介绍-) [![](https://img.shields.io/badge/-近期更新-FFFFFF.svg)](#近期更新-)  [![](https://img.shields.io/badge/-鸣谢-FFFFFF.svg)](#鸣谢-)
 
 请 `认真阅读完毕` 本页面，本页面包含如何提升固件下载及使用体验的内容。
 
@@ -135,66 +135,7 @@ https://github.com/cwk2017/openwrt <br/>
     <img src="https://img.shields.io/badge/-返回顶部-FFFFFF.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
 
-## 注意事项 [![](https://img.shields.io/badge/-下载注意事项-FFFFFF.svg)](#注意事项-)
-
-1. 在固件编译完成后，会上传一份副本到 WeTransfer 和 奶牛快传，对于国内网络用户，为提高下载体验，可下载存放于这两个网站中的固件副本，副本下载地址位于固件下载页面中固件文件列表下的 Annotations 提示框内，几天之后网盘内的文件会失效，所以推荐周五~周日上去下载；
-<details>
- <summary>&nbsp;&nbsp;&nbsp;还是找不到？点击这里！</summary>
- 
-<br/>
-<img src="https://img.vim-cn.com/ef/2481045f0a6fac8ee6c0c437b5c225ee880295.png" alt="图裂了😂"/><br/>    
-<img src="https://img.vim-cn.com/e9/1b273967817d9eaf78869e06a0069939354d43.png" alt="图裂了😂"/><br/>
-</details>
-
-2. 在极少数情况下，因网络原因这两份副本可能会上传失败，如果遇到这种情况，就只能下载存放在 Github Action 里的固件了，由于 Github Action 限制，需要登录 Github 账号才可下载存放于 Github Action 中的固件 `(未登录时固件链接不可被点击)`，但 WeTransfer 和 奶牛快传 的固件下载链接在未登录状态下可正常查看，不受影响；
-
-3. 如果需要下载存放于 Github Action 上的固件，由于众所周知的原因，请尽量使用科学上网方式下载固件，固件下载完成后，请下载 sha256sums 文件或使用压缩软件的 "测试压缩文件" 功能来验证固件的完整性。
-
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-FFFFFF.svg" alt="图裂了😂" title="返回顶部" align="right"/>
-</a>
-
-<br/>
-
-[anti-AD 中文区命中率最高的广告过滤列表](https://github.com/privacy-protection-tools/anti-AD)
-
-[最完善的 iOS 翻墙规则](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
-
-[国内加速过滤广告规则订阅](https://github.com/Silentely/AdBlock-Acceleration)
-
-</details>
-
-<details>
- <summary><b>&nbsp;&nbsp;&nbsp; NAS 影院</b></summary>
-
-<br/>
-
-[最NB的家庭影院播放器KODI](http://www.kodiplayer.cn/)
-
-[全球5000多个IPTV频道](https://github.com/iptv-org/iptv)
-
-</details>
-
-<details>
- <summary><b>&nbsp;&nbsp;&nbsp; 本地编译</b></summary>
-
-<br/>
-
-[基本编译教程](https://blog.csdn.net/Dreame_Architect/article/details/101527640)
-
-[WIN10 内置 Ubuntu 子系统编译教程](http://www.fuweijun.com/index.php/2019/07/03/win10%E5%AD%90linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E8%AF%91openwrt/)
-
-[Win10 子系统 Ubuntu18.04 下编译 OpenWrt 问题及解决方法](https://blog.csdn.net/khaunag/article/details/104854536)
-
-[Ubuntu 默认源更新慢可更换清华大学镜像源](https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/)
-
-[Lean's OpenWrt 插件大全](https://github.com/cwk2017/openwrt/wiki/Lean‘s-OpenWrt-——LuCI-Applications-插件说明)
-
-</details>
-
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-FFFFFF.svg" alt="图裂了😂" title="返回顶部" align="right"/>
-</a>
+<br>
 
 ## 鸣谢 [![](https://img.shields.io/badge/-跪谢各大佬-FFFFFF.svg)](#鸣谢-)
  
