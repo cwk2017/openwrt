@@ -3,8 +3,8 @@
 </a>
 
 OpenWrt DIY — 多设备固件云编译 <br/>
-[这个是转载这位大佬](https://github.com/cwk2017/openwrt) <br/>
-https://github.com/cwk2017/openwrt <br/>
+[这个是转载这位大佬](https://github.com/IvanSolis1989/OpenWrt-DIY) <br/>
+https://github.com/IvanSolis1989/OpenWrt-DIY<br/>
 ======================
 
 [![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-固件下载-FFFFFF.svg)](#固件下载-) [![](https://img.shields.io/badge/-基本介绍-FFFFFF.svg)](#基本介绍-) [![](https://img.shields.io/badge/-近期更新-FFFFFF.svg)](#近期更新-)  [![](https://img.shields.io/badge/-鸣谢-FFFFFF.svg)](#鸣谢-)
